@@ -48,7 +48,7 @@ Data Modelling (Star Schema):
 
 3. Relationships: One-to-Many, single-direction filtering
 
-📐** DAX Measures**
+📐  **DAX Measures**
 
 Some key DAX measures created for analysis:
 
@@ -62,7 +62,7 @@ Some key DAX measures created for analysis:
 
 5. Period-over-Period Comparison → Used CALCULATE, USERELATIONSHIP, and ALL to compare metrics across two date tables
 
-📊** Dashboard Features**
+📊 **Dashboard Features**
 🔹 Top/Bottom Product Analysis
 
 1. Identified top-performing products (iPhone 14, MacBook Air, Sony Bravia TV), driving revenue & profit
@@ -140,6 +140,6 @@ Data Modelling – Star Schema design
 
 3. Track sales trends and campaign effectiveness
 
-Optimize discount strategies
+4. Optimise discount strategies
 
-Improve customer targeting and product portfolio decisions
+5. Improve customer targeting and product portfolio decisions
